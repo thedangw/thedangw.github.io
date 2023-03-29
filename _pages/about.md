@@ -34,7 +34,7 @@ Vậy nên, mình không mơ mộng những điều lớn lao. Blog này đơn g
   
 # __'thedangw' là gì?__
 
-![chillinthebl___ank](https://pbs.twimg.com/media/FsaE66SaIAEug5D?format=jpg&name=4096x4096#wide)
+![chillinthebl___ank](https://pbs.twimg.com/media/FsaE66SaIAEug5D?format=jpg&name=medium#wide)
 <em>Chill in the bl___ank / <a href="https://instagram.com/bl___ank.sg/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
 <br>
 Thực ra, lúc chọn tên blog & tên miền để đăng ký thì mình cũng nghĩ ra nhiều options lắm - chắc bạn nào từng bắt đầu blog hay mới tạo website, fanpage, account Tik Tok, Instagram riêng cũng đã/sẽ như mình, research ra 8000 cái tên. Nhưng cái thì chả có gì hay ho, cái hay ho thì bị... đăng ký mất rồi. 🥲
