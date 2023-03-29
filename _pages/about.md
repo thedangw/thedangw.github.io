@@ -20,8 +20,8 @@ Có lần, nói chuyện với một ông anh 'trong ngành', tụi mình chợt
 
 <div class="gallery-box">
     <div class="gallery">
-      <img src="https://pbs.twimg.com/media/FsaNA3MakAAH8Fi?format=jpg&name=2048x2048" loading="lazy" class="lightense-target">
-      <img src="https://pbs.twimg.com/media/FsaNA3QaAAEOgL8?format=jpg&name=2048x2048" loading="lazy" class="lightense-target">
+      <img src="https://pbs.twimg.com/media/FsaNA3MakAAH8Fi?format=jpg&name=medium" loading="lazy" class="lightense-target">
+      <img src="https://pbs.twimg.com/media/FsaNA3QaAAEOgL8?format=jpg&name=medium" loading="lazy" class="lightense-target">
     </div>
     <em>Text vs. Video / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
   </div>
