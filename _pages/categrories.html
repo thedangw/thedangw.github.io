@@ -1,0 +1,72 @@
+---
+layout: page
+title: Categories
+permalink: /categories/
+image: 'https://images.unsplash.com/photo-1529148482759-b35b25c5f217?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
+---
+{% comment%}
+Here we generate all the tags.
+{% endcomment%}
+
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+{% assign ttags = post.tags | join:'|' | append:'|' %}
+{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% assign tags = "" %}
+
+{% for tag in rawtags %}
+{% if tag != "" %}
+
+{% if tags == "" %}
+{% assign tags = tag | split:'|' %}
+{% endif %}
+
+{% unless tags contains tag %}
+{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+
+<div class="col col-12" style="text-align: center">
+<h2 style="font-size: 43px">Bạn muốn tìm bài viết?</h2>
+      <p>Ctrl + F & Search trong danh sách bên dưới. Mình đã tổng hợp tất cả ở đây rồi. Còn nếu bạn vẫn không thấy, có thể do mình... chưa kịp viết. Inbox mình để `request` ngay nha. 💪🏻</p>
+      <p><a href="https://t.me/wilsontdw/" class="button button--primary"  style="border: none">INBOX ME</a></p>
+<br/>
+
+<div class="col col-12" style="text-align: left">
+<h2 style="font-size: 43px">📌 Tags</h2>
+<p>Bạn có thể click vào tag để chuyển đến danh sách bài viết tương ứng. 😙</p>
+<div class="posts">
+<h4>
+{% for tag in tags %}
+[<a href="#{{ tag | slugify }}" class="codinfox-tag-mark">{{ tag }}] </a> &nbsp;&nbsp;
+{% endfor %}
+<br/>
+      
+<h2 style="font-size: 43px">📒 List of content</h2>
+      <p>Danh sách bài viết được phân loại theo từng tag. 👇🏻</p>
+{% for tag in tags %}
+<h3 id="{{ tag | slugify }}">{{ tag }}</h3>
+<ul class="codinfox-category-list">
+  {% for post in site.posts %}
+  {% if post.tags contains tag %}
+  <li>
+      <a href="{{ post.url }}">
+        {{ post.title }} • 
+        {{ post.date | date_to_string }} <!-- •
+      </a>
+      {% for tag in post.tags %}
+      <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }} </a>
+      {% endfor %} -->
+      </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endfor %}
+
+</div>

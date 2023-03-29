@@ -1,0 +1,168 @@
+#-------------------------------
+# Site Settings
+title: Hoàng Đăng's World - thedangw
+logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
+description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em ‘chill’ thật lâu. Thanks for your interest. Uppp. 🦾
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About me'
+      url: '/about/'
+    - title: 'Works'
+      submenu:
+      - url: '/work/'
+        title: 'Works'
+#     - url: '/own/'
+#       title: 'Own projects'
+      - title: 'My career'
+        url: '/career/'
+      - title: 'Tech Stack'
+        url: '/techstack/'
+    - title: 'Writing'
+      url: '/blog/'
+    - title: 'Categories'
+      url: '/categories/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Hoàng Đăng \ Wilson D.
+  author__bio: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🦾
+  author__avatar: '/images/avatar.jpeg'
+
+social:
+- {icon: "ion-logo-google", link: "mailto:hoangdang.ux@gmail.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/hoangdang91/"}
+- {icon: "ion-logo-tumblr", link: "https://t.me/wilsontdw"}
+#- {icon: "ion-logo-instagram", link: "https://www.instagram.com/bl___ank.sg/"}
+#- {icon: "ion-logo-facebook", link: "https://m.me/hoanglight.98"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Hoàng Đăng., Product-lover 🧡
+  hero__description: "Hi, mình là Hoàng Đăng / Wilson. Mình thích công nghệ, du lịch và cà phê chém gió với bạn bè. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🦾"
+  
+  hero__image: "https://cdn.dribbble.com/users/1552574/screenshots/10770649/media/0b837a44af136d2f907ea84eb8a025cf.jpg?compress=1&resize=1600x1200&vertical=top"
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: false
+  logos__title: Companies I've had the pleasure to work with
+
+logo__items:
+  - name: endavu
+    link: "https://www.endavu.com"
+    image: "/images/companies/endavu.svg"
+  
+  - name: MeguMethod
+    link: "https://www.megumethod.com/"
+    image: "/images/companies/megumethod.svg"
+
+  - name: tado°
+    link: "https://www.tado.com/"
+    image: "/images/companies/tado.svg"
+
+  - name: Synetech
+    link: "https://synetech.cz/"
+    image: "/images/companies/synetech.svg"
+
+  - name: SpaceKnow
+    link: "https://spaceknow.com/"
+    image: "/images/companies/spaceknow.svg"
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: true
+  work__title: 👨🏻‍💻 Works
+  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+
+#-------------------------------
+# Own projects Settings
+own:
+  enable: true
+  own__title: 🎧 Podcasts & Media
+  own__description: Here are the Podcasts and Media I've done on my own.
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: true
+
+testimonial__title: 🤼‍♂️ Teammates
+testimonial__description: The colleagues with which I always feel honored to work, once more.
+
+testimonial__items:
+  - name: "Ry Nguyễn"
+    image: "https://pbs.twimg.com/media/FsXxxHIaEAIeYLw?format=jpg&name=small"
+    designation: "Artist @ One Mount"
+    link: "https://www.rychan.vn/"
+    content: "Ry (Nhung) is one of the members I am most proud of due to her essential role in the creation and dedication to our products and organization. She is a key individual."
+#    content_second_paragraph: "As he became senior developer Lukas took on more responsibilities and led our iOS team (house in our jargon) for the last two years. During this time his team grew and became the best-managed team in our company."
+#    content_third_paragraph: "Not only that Lukas has great management skills, he's also an excellent developer. He was our iOS tech guru and author of many internal libraries and architecture patterns, that we use on our projects today. He has deep knowledge of Clean architecture, SPM (swift package manager) and SwiftUI."
+
+  - name: "Nam Jang"
+    image: "https://pbs.twimg.com/media/FsXxxHFaQAERhW4?format=jpg&name=large"
+    designation: "Head of Loyalty Ops @ One Mount"
+    link: "https://www.facebook.com/lenamgiang"
+    content: "From the beginning - about 4 years ago, Jang (Giang) was one of the most helpful and supportive colleagues. She guided me and my team in my first steps in Loyalty and also in One Mount's processes, on which we worked together."
+
+  - name: "Nam Ziozoa"
+    image: "https://pbs.twimg.com/media/FsXxxHiaYAA2gqe?format=jpg&name=large"
+    designation: "Head of Design @ Gianty"
+    link: "https://www.linkedin.com/in/niklasastrom/"
+    content: "Nam's knowledge and skills as well as willingness to help makes me happy I got the chance to work together with him! During the year we worked together, he not only delivered high quality software."
+
+#-------------------------------
+# Blog Section
+blog:
+  enable: true
+
+blog__settings:
+  blog__title: 🎒 Writing
+  blog__description: I'm not a blogger, but here you can find a few things I thought deserved to be written down.
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: "https://cdn.dribbble.com/users/31232/screenshots/5413843/limitlessimpact_4x.png"
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email:  # Formspree (https://formspree.io/) form id
+  description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. Thanks. 🤟🏻
+
+# email: wilson.citb@gmail.com # Add your email for contact form
+# description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. # Add a description of your form
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier:  # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: 
