@@ -51,8 +51,6 @@ But why fuss over it? The most important product is the live version that reache
 <br>
 
 # __Thanks for your interest!__
-Nếu cần trao đổi, anh em có thể [Email](mailto:hoangdang.ux@gmail.com) hoặc inbox cho mình qua [Telegram](https://t.me/wilsontdw) để chém gió cùng mình về công việc Quản lý, Phát triển sản phẩm \ Product Management,... hay thậm chí là cà phê tán gẫu về bất cứ thứ gì.
-
 If you need to discuss, feel free to contact me via [Email](mailto:hoangdang.ux@gmail.com) or inbox me via [Telegram](https://t.me/wilsontdw) to chat with me about Product Management, or even have a coffee chat about anything.
 
 'Stay connected'_ & _'chill'_. Uppp. 🦾  
