@@ -275,7 +275,7 @@
   align-items: center;
 }
 
-/* Humburger Menu */
+/* Hamburger Menu */
 .hamburger {
   width: 24px;
   height: 20px;
@@ -329,9 +329,11 @@
 /* Toggle Theme */
 .toggle-sun,
 .toggle-moon {
-  display: block;
-  width: 20px;
-  height: 20px;
+/*  display: block; */
+  display: flex;
+  align-items: center;
+  width: 22px;
+  height: 22px;
   cursor: pointer;
 }
 
@@ -340,32 +342,32 @@
 }
 
 .toggle-sun {
-  display: none;
+/*  display: none; */
   background-image: var(--icon-sun);
 }
 
 .dark-mode {
   .toggle-sun {
-    display: block;
+/*      display: block; */
     filter: var(--color-filter);
   }
 
   .toggle-moon {
-    display: none;
+/*          display: none; */
   }
 }
 
 .toggle-theme {
   &.theme-light {
     .toggle-sun {
-      display: block;
+/*                display: block; */
       cursor: auto;
     }
   }
 
   &.theme-dark {
     .toggle-moon {
-      display: block;
+/*      display: block; */
       cursor: auto;
       filter: var(--color-filter);
     }
