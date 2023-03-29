@@ -342,25 +342,29 @@
 }
 
 .toggle-sun {
-/*  display: none; */
+  display: none;
   background-image: var(--icon-sun);
 }
 
 .dark-mode {
   .toggle-sun {
-/*      display: block; */
+/*    display: block; */
+      display: flex;
+      align-items: center;
     filter: var(--color-filter);
   }
 
   .toggle-moon {
-/*          display: none; */
+      display: none;
   }
 }
 
 .toggle-theme {
   &.theme-light {
     .toggle-sun {
-/*                display: block; */
+/*    display: block; */
+      display: flex;
+      align-items: center;
       cursor: auto;
     }
   }
@@ -368,6 +372,8 @@
   &.theme-dark {
     .toggle-moon {
 /*      display: block; */
+      display: flex;
+      align-items: center;
       cursor: auto;
       filter: var(--color-filter);
     }
