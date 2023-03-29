@@ -16,7 +16,15 @@ Mình thích cà phê và nghe mọi người kể chuyện. Thi thoảng mình 
   
 # __Vậy, blog này viết gì?__
 
-Có lần, nói chuyện với một ông anh 'trong ngành', tụi mình chợt nhận ra, nếu không làm việc chung (thậm chí kể cả làm việc chung), gần như có rất ít 'context' để anh em Product được ngồi lại, kể cho nhau nghe những câu chuyện vui buồn trong đời làm sản phẩm. Với cả, việc không kể, viết ra thì rất dễ quên, thế là bao nhiêu kinh nghiệm xương máu đành... để gió cuốn đi 🍃.   
+Có lần, nói chuyện với một ông anh 'trong ngành', tụi mình chợt nhận ra, nếu không làm việc chung (thậm chí kể cả làm việc chung), gần như có rất ít 'context' để anh em Product được ngồi lại, kể cho nhau nghe những câu chuyện vui buồn trong đời làm sản phẩm. Với cả, việc không kể, viết ra thì rất dễ quên, thế là bao nhiêu kinh nghiệm xương máu đành... để gió cuốn đi 🍃.
+
+<div class="gallery-box">
+    <div class="gallery">
+      <img src="https://images.unsplash.com/photo-1547413749-3e0c1ba70695?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+      <img src="https://images.unsplash.com/photo-1597075095308-0b47fc649175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80">
+    </div>
+    <em>Text vs. Video / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  </div>
 
 Giữa thời đại 1m2 có 5 người làm nội dung (các bạn lại rất sáng tạo và có chuyên môn), cộng thêm rất nhiều nền tảng hỗ trợ, rõ ràng mọi người thích xem video trên Tiktok, Youtube,... xem ảnh trên Instagram hơn là ngồi đọc một page chi chít chữ như thế này.
 
@@ -26,7 +34,8 @@ Vậy nên, mình không mơ mộng những điều lớn lao. Blog này đơn g
   
 # __'thedangw' là gì?__
 
-![chillinthebl___ank](https://images.unsplash.com/photo-1471560090527-d1af5e4e6eb6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80#wide)
+![chillinthebl___ank](https://pbs.twimg.com/media/FsaE66SaIAEug5D?format=jpg&name=4096x4096#wide)
+<em>Chill in the bl___ank / <a href="https://instagram.com/bl___ank.sg/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
 <br>
 Thực ra, lúc chọn tên blog & tên miền để đăng ký thì mình cũng nghĩ ra nhiều options lắm - chắc bạn nào từng bắt đầu blog hay mới tạo website, fanpage, account Tik Tok, Instagram riêng cũng đã/sẽ như mình, research ra 8000 cái tên. Nhưng cái thì chả có gì hay ho, cái hay ho thì bị... đăng ký mất rồi. 🥲
 
