@@ -54,7 +54,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 **Checklist - Cách ly thì nên mang theo gì?**
 Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly <br>
 
-[List](https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg)
+![List](https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg)
 <em> Danh sách vật dụng khi đi cách ly / Unicef & Tinhte</em>
 <br>
 
@@ -76,7 +76,7 @@ Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cá
 - Phục hồi & bình thường mới: Có tiến triển về sức khỏe
 - Chủ quan: Nghĩ mình đã khỏi nên bỏ các thói quen
 
-[Health](https://images.unsplash.com/photo-1586639940725-855e29712629?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![Health](https://images.unsplash.com/photo-1586639940725-855e29712629?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
 <em> Lockdown / Unsplash</em>
 <br>
 
@@ -104,7 +104,7 @@ Vì lịch trình di chuyển của mỗi người là khác nhau và phức t�
 
 Để ghi nhận một cách chính xác mà không phải nhớ, các bạn có thể sử dụng Google Maps và bật tính năng Timeline. Google Maps sẽ track chính xác bạn đã đi những đâu, vào lúc nào. Google Maps hoạt động tương đối chính xác trên cả iOS và Android.
 
-[Google Maps](https://pbs.twimg.com/media/Fr4tZBnaAAInx5o?format=jpg&name=large)
+![Google Maps](https://pbs.twimg.com/media/Fr4tZBnaAAInx5o?format=jpg&name=large)
 <br>
 
 ***Note:***
