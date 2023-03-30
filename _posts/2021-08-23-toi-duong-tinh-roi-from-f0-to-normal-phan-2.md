@@ -1,16 +1,19 @@
 ---
 layout: post
 title:  Tôi dương tính rồi! - From F0 to Normal (Phần 2)
+description: Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tốt hơn.
 date:   2021-08-23 19:18:25 +0700
 image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 tags:   [covid, health, tips, product]
 featured:
 ---
 
+Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
+
 **[Phần 1.](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
-1. Disclaimer - Lưu ý
-2. F0 rồi - Giờ phải làm sao?
-3. F0 Journey
+'1. Disclaimer - Lưu ý
+'2. F0 rồi - Giờ phải làm sao?
+'3. F0 Journey
 - Giai đoạn 1. Có nghi ngờ nhiễm Covid
 - Giai đoạn 2. Xác định đã nhiễm Covid
 - Giai đoạn 3. Thay đổi thói quen
@@ -19,11 +22,9 @@ featured:
 - [Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)](#part3.3)
 - [Giai đoạn 4. Có nghi ngờ nhiễm Covid](#part3.4)
 - [Giai đoạn 5. Có nghi ngờ nhiễm Covid](#part3.5)
-4. [Gợi ý & Đề xuất]((#part4)
+'4. [Gợi ý & Đề xuất](#part4)
 
----
-
-Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
+-
 
 # Disclaimer - Lưu ý <a name="part3.3"></a>
 (Điều quan trọng nên nhắc lại thêm lần nữa).
@@ -32,7 +33,8 @@ featured:
 
 
 ## Giai đoạn 3. Thay đổi thói quen <a name="part3.3"></a>
-**Problems*
+
+**Problems** 
 Giai đoạn này là giai đoạn cả người bệnh và người thân sẽ phải tập với nhiều thói quen mới. Những vấn đề thường xuyên phát sinh có thể kể đến như:
 - Người bệnh bị nhắc nhở liên tục sẽ dễ bị stress, mệt mỏi
 - Người bệnh bị nhiều người thân nhắc nhở cùng một việc: uống thuốc, tập thể dục,...
@@ -47,13 +49,13 @@ Giai đoạn này là giai đoạn cả người bệnh và người thân sẽ 
 - Có hướng dẫn tập thể dục hoặc tập thở
 
 **Solutions**
-- Sử dụng Google Calendar để log các hoạt động trong ngày/tuần và nhắc lịch.
+- Sử dụng Google Calendar để log các hoạt động trong ngày/tuần và nhắc lịch. Cụ thể, rõ ràng, remind tự động tại từng khung giờ. Có thể xem overview ngày, tuần,... Giao diện đẹp, thân thiện, dễ dùng.
 
 ![Google Calendar](https://pbs.twimg.com/media/FsdE-EYaYAALx5r?format=jpg&name=large)
 <em> Google Calendar / Hoàng Đăng</em>
 <br>
 
-- Sử dụng Google Sheet để tracking các triệu chứng theo từng ngày. Các triệu chứng note theo hướng dẫn của Bộ Y tế.
+- Sử dụng Google Sheet để tracking các triệu chứng theo từng ngày. Các triệu chứng note theo hướng dẫn của Bộ Y tế. Thông tin cực kỳ chuẩn xác, không sợ nhớ nhớ quên quên. Khi bác sỹ hỏi em mình có triệu chứng này, kia bao lâu. Mình có thể cung cấp chính xác 3 ngày, 5 ngày,... rồi gửi file cho bác sỹ. Bác sỹ khá ngạc nhiên và vui.
 
 ![Google Sheet](https://pbs.twimg.com/media/FsdEievaEAAG0_Y?format=jpg&name=large)
 <em> Google Sheet / Hoàng Đăng</em>
@@ -63,6 +65,7 @@ Giai đoạn này là giai đoạn cả người bệnh và người thân sẽ 
 
 ![Calmaria](https://pbs.twimg.com/media/FsdEieyaYAID9DM?format=jpg&name=large)
 <em> App Calmaria / Hoàng Đăng</em>
+- Mọi người có thể xem thêm thông tin và download app tại đây:
     - Website: [https://calmaria.app/](https://calmaria.app/)
     - Calmaria on Apple AppStore: [Download](https://apps.apple.com/us/app/calmaria/id1523108871)
     - Calmaria on Google PlayStore: [Download](https://play.google.com/store/apps/details?id=com.abdz.breathing&hl=en_US&pli=1)
