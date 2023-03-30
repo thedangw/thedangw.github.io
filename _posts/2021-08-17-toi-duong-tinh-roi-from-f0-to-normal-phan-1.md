@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Example usage of the clean architecture
+title: Tôi dương tính rồi - From F0 to Normal (Phần 1)
 description: Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tốt hơn.
 date: 2021-08-17 15:01:35 +0700
 image: 'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
-image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1) (published on [the Clean Coder Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html))'
-tags: [covid, health, tips, product]
+image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1)'
+tags: [Covid, Health, Tips, Product]
 ---
 
 Hiện tại, đang là giai đoạn cao điểm của dịch Covid. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở lại là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em mình vẫn ở nhà tự chăm sóc. Đây cũng là một điều may mắn vì mình được ở bên cạnh em mình, phần nào sẽ yên tâm hơn.
@@ -22,7 +22,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - [Giai đoạn 2. Có nghi ngờ nhiễm Covid](#part3.2)
 - [Giai đoạn 3. Có nghi ngờ nhiễm Covid](#part3.3)
 
-**[Phần 2.]()**
+**[Phần 2.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
 - Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)
 - Giai đoạn 4. Có nghi ngờ nhiễm Covid
 - Giai đoạn 5. Có nghi ngờ nhiễm Covid
@@ -53,11 +53,9 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 
 **Checklist - Cách ly thì nên mang theo gì?**
 Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly <br>
-*- Nguồn: Unicef.* <br>
 
-<div>
-  <img src="https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg" style="border-radius: 8px"> 
-</div>
+[List](https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg)
+<em> Danh sách vật dụng khi đi cách ly / Unicef & Tinhte</em>
 <br>
 
 
@@ -78,9 +76,8 @@ Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cá
 - Phục hồi & bình thường mới: Có tiến triển về sức khỏe
 - Chủ quan: Nghĩ mình đã khỏi nên bỏ các thói quen
 
-<div>
-  <img src="https://images.unsplash.com/photo-1586639940725-855e29712629?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" style="border-radius: 8px"> 
-</div>
+[Health](https://images.unsplash.com/photo-1586639940725-855e29712629?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+<em> Lockdown / Unsplash</em>
 <br>
 
 
@@ -107,9 +104,7 @@ Vì lịch trình di chuyển của mỗi người là khác nhau và phức t�
 
 Để ghi nhận một cách chính xác mà không phải nhớ, các bạn có thể sử dụng Google Maps và bật tính năng Timeline. Google Maps sẽ track chính xác bạn đã đi những đâu, vào lúc nào. Google Maps hoạt động tương đối chính xác trên cả iOS và Android.
 
-<div>
-  <img src="https://pbs.twimg.com/media/Fr4tZBnaAAInx5o?format=jpg&name=large" style="border-radius: 8px"> 
-</div>
+[Google Maps](https://pbs.twimg.com/media/Fr4tZBnaAAInx5o?format=jpg&name=large)
 <br>
 
 ***Note:***
@@ -128,10 +123,6 @@ Chấp nhận tình trạng & Xây dựng thói quen sinh hoạt mới
 
 Post này hơi dài rồi. Qua tuần mình sẽ chia sẻ tiếp các giai đoạn còn lại và tips để mình track được tình hình sức khỏe & nhắc nhở nhưng không phiền người bệnh nha. See yah & take care. 💪🏻
 
-**[Phần 2. tại đây.]()**
+**[Phần 2. tại đây.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
 
-_
-Source/Photos:
-- *Unsplash*
-- *Unicef*
-- *Google Maps của mình*
+_ Source/Photos: *Unsplash, Unicef, Google Maps của mình*
