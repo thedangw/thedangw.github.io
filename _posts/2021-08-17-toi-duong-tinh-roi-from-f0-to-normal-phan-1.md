@@ -19,18 +19,19 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 2. [F0 rồi - Giờ phải làm sao?](#part2)
 3. [F0 Journey](#part3)
 - [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
-- [Giai đoạn 2. Có nghi ngờ nhiễm Covid](#part3.2)
-- [Giai đoạn 3. Có nghi ngờ nhiễm Covid](#part3.3)
+- [Giai đoạn 2. Xác định đã nhiễm Covid](#part3.2)
+- [Giai đoạn 3. Thay đổi thói quen](#part3.3)
 
 **[Phần 2.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
-- Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)
+- Giai đoạn 3. Thay đổi thói quen (tt)
 - Giai đoạn 4. Có nghi ngờ nhiễm Covid
 - Giai đoạn 5. Có nghi ngờ nhiễm Covid
+4. Gợi ý & Đề xuất
 
 
 # Disclaimer - Lưu ý <a name="part1"></a>
-- *Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.*
-- *Tên thuốc nếu được nhắc đến chỉ mang tính chất tham khảo và đúng trong ngữ cảnh thực tế của mình; khi sử dụng thuốc mọi người cần tham khảo ý kiến tư vấn của bác sỹ - đặc biệt trong trường hợp có bệnh nền/mãn tính,...*
+- Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
+- Tên thuốc nếu được nhắc đến (nếu có) chỉ mang tính chất tham khảo và đúng trong ngữ cảnh thực tế của mình; khi sử dụng thuốc mọi người cần tham khảo ý kiến tư vấn của bác sỹ - đặc biệt trong trường hợp có bệnh nền/mãn tính,...
 
 
 # F0 rồi - Giờ phải làm sao? <a name="part2"></a>
@@ -50,6 +51,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - Luôn sẵn sàng hành lý đi cách ly nếu cần
 - Nắm rõ tình hình sức khỏe và bệnh nền của bản thân (nếu có) để cung cấp cho bác sỹ và cán bộ y tế
 - Chuẩn bị các loại thuốc cơ bản & kit test
+- BÌNH TĨNH. BÌNH TĨNH. BÌNH TĨNH - điều quan trọng nói 3 lần.
 
 **Checklist - Cách ly thì nên mang theo gì?**
 Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly <br>
@@ -84,20 +86,20 @@ Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cá
 ## Giai đoạn 1. Có nghi ngờ nhiễm Covid <a name="part3.1"></a>
 Có triệu chứng hoặc có nghi ngờ tiếp xúc với các F0 khác
 - **F0:**
-	- ***Thường:*** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị.
-	- ***Nên:*** Theo dõi sức khỏe. Liên hệ với các nhà thuốc & trung tâm y tế để xét nghiệm. Không di chuyển nhiều và hạn chế tiếp xúc.
+	- **Thường:** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị.
+	- **Nên:** Theo dõi sức khỏe. Liên hệ với các nhà thuốc & trung tâm y tế để xét nghiệm. Không di chuyển nhiều và hạn chế tiếp xúc.
 - **Người thân F0:**
-	- ***Thường:*** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị
-	- ***Nên:*** Theo dõi sức khỏe. Liên hệ với các nhà thuốc & trung tâm y tế để xét nghiệm. Không di chuyển nhiều và hạn chế tiếp xúc
+	- **Thường:** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị
+	- **Nên:** Theo dõi sức khỏe. Liên hệ với các nhà thuốc & trung tâm y tế để xét nghiệm. Không di chuyển nhiều và hạn chế tiếp xúc
 
 ## Giai đoạn 2. Xác định đã nhiễm covid <a name="part3.2"></a>
 Test nhanh & test khẳng định PCR
 - **F0:**
-	- ***Thường:*** Hoang mang, lo lắng. Không biết làm gì tiếp theo.
-	- ****Nên:**** Chấp nhận tình trạng. Cách ly với gia đình. Thông báo cho cơ quan y tế, cơ quan làm việc, những người đã tiếp xúc.
+	- **Thường:** Hoang mang, lo lắng. Không biết làm gì tiếp theo.
+	- **Nên:** Chấp nhận tình trạng. Cách ly với gia đình. Thông báo cho cơ quan y tế, cơ quan làm việc, những người đã tiếp xúc.
 - **Người thân F0:**
-	- ***Thường:*** Hoang mang, lo lắng. Không biết làm gì tiếp theo. Trách người bệnh.
-	- ***Nên:*** Test bổ sung để xác nhận (nếu chưa test). Thông báo cho cơ quan y tế, cơ quan làm việc, những người đã tiếp xúc. Chuẩn bị cho F0.
+	- **Thường:** Hoang mang, lo lắng. Không biết làm gì tiếp theo. Trách người bệnh.
+	- **Nên:** Test bổ sung để xác nhận (nếu chưa test). Thông báo cho cơ quan y tế, cơ quan làm việc, những người đã tiếp xúc. Chuẩn bị cho F0.
 
 **Tip** <br>
 Vì lịch trình di chuyển của mỗi người là khác nhau và phức tạp. Nhiều lúc mình hay nói vui là hôm qua ăn gì còn không nhớ thì sao nhớ dượcd đã đi những đâu, gặp những ai, lúc nào trong vòng 7 ngày.
@@ -108,22 +110,22 @@ Vì lịch trình di chuyển của mỗi người là khác nhau và phức t�
 <em> Google Maps Timeline / Hoàng Đăng</em>
 <br>
 
-***Note:***
-- *Để track được chính xác, bạn phải luôn bật GPS và thiết bị có kết nối internet*
-- *Nếu lo ngại vấn đề bảo mật, bạn có thể on/off tính năng khi cần*
+**Note:**
+- Để track được chính xác, bạn phải luôn bật GPS và thiết bị có kết nối internet
+- Nếu lo ngại vấn đề bảo mật, bạn có thể on/off tính năng khi cần
 
 
 ## Giai đoạn 3. Thay đổi thói quen <a name="part3.3"></a>
 Chấp nhận tình trạng & Xây dựng thói quen sinh hoạt mới
 - **F0:**
-	- ***Thường:*** Mệt mỏi, lo lắng. Cảm thấy có lỗi. Quá nhiều thứ mới cần nhớ, cần làm.
-	- ***Nên:*** Theo dõi, ghi chép tình trạng sức khỏe. Có lịch trình thực hiện các hoạt động mỗi ngày
+	- **Thường:** Mệt mỏi, lo lắng. Cảm thấy có lỗi. Quá nhiều thứ mới cần nhớ, cần làm.
+	- **Nên:** Theo dõi, ghi chép tình trạng sức khỏe. Có lịch trình thực hiện các hoạt động mỗi ngày
 - **Người thân F0:**
-	- ***Thường:*** Lo lắng bị lây bệnh. Quan tâm đến F0 quá mức hoặc sợ hãi quá mức mà cách xa F0.
-	- ***Nên:*** Thường xuyên động viên người bệnh. Không kỳ thị, xa cách, đổ lỗi cho người bệnh. Cùng người bệnh thực hiện các thói quen mới.
+	- **Thường:** Lo lắng bị lây bệnh. Quan tâm đến F0 quá mức hoặc sợ hãi quá mức mà cách xa F0.
+	- **Nên:** Thường xuyên động viên người bệnh. Không kỳ thị, xa cách, đổ lỗi cho người bệnh. Cùng người bệnh thực hiện các thói quen mới.
 
 Post này hơi dài rồi. Qua tuần mình sẽ chia sẻ tiếp các giai đoạn còn lại và tips để mình track được tình hình sức khỏe & nhắc nhở nhưng không phiền người bệnh nha. See yah & take care. 💪🏻
 
-**[Phần 2. tại đây.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
+**[Phần 2. xem tiếp tại đây.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
 
 _ Source/Photos: *Unsplash, Unicef, Google Maps của mình*
