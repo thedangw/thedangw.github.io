@@ -8,28 +8,31 @@ tags:   [covid, health, tips, product]
 featured:
 ---
 
-Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
+Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 
-**[Phần 1.](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
-'1. Disclaimer - Lưu ý
-'2. F0 rồi - Giờ phải làm sao?
-'3. F0 Journey
-- Giai đoạn 1. Có nghi ngờ nhiễm Covid
-- Giai đoạn 2. Xác định đã nhiễm Covid
-- Giai đoạn 3. Thay đổi thói quen
+**[Phần 1.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
+- 1. Disclaimer - Lưu ý
+- 2. F0 rồi - Giờ phải làm sao?
+- 3. F0 Journey
+     - Giai đoạn 1. Có nghi ngờ nhiễm Covid
+     - Giai đoạn 2. Xác định đã nhiễm Covid
+     - Giai đoạn 3. Thay đổi thói quen
 
 **Phần 2.**
-- [Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)](#part3.3)
-- [Giai đoạn 4. Có nghi ngờ nhiễm Covid](#part3.4)
-- [Giai đoạn 5. Có nghi ngờ nhiễm Covid](#part3.5)
-'4. [Gợi ý & Đề xuất](#part4)
+     - [Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)](#part3.3)
+     - [Giai đoạn 4. Có nghi ngờ nhiễm Covid](#part3.4)
+     - [Giai đoạn 5. Có nghi ngờ nhiễm Covid](#part3.5)
+- 4. [Gợi ý & Đề xuất](#part4)
 
--
 
-# Disclaimer - Lưu ý <a name="part3.3"></a>
+# Disclaimer - Lưu ý 
 (Điều quan trọng nên nhắc lại thêm lần nữa).
-- Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
+
+> - Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
 - Tên thuốc nếu được nhắc đến (nếu có) chỉ mang tính chất tham khảo và đúng trong ngữ cảnh thực tế của mình; khi sử dụng thuốc mọi người cần tham khảo ý kiến tư vấn của bác sỹ - đặc biệt trong trường hợp có bệnh nền/mãn tính,...
+>
+> <cite>- Khuyến cáo & Lưu ý</cite>
+<br>
 
 
 ## Giai đoạn 3. Thay đổi thói quen <a name="part3.3"></a>
@@ -112,5 +115,5 @@ Sức khỏe tiến triển, xét nghiệm âm tính
 
 Cuối cùng, chúc anh chị em và gia đình, người thân bình an. Chúc Việt Nam 🇻🇳 thắng đại dịch! 💪🏻
 
-**[Phần 1. xem lại tại đây.](/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
+**[Phần 1. xem lại tại đây.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
 

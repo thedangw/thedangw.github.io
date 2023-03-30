@@ -15,23 +15,27 @@ Mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến tri
 Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
 
 **Phần 1.**
-'1. [Disclaimer - Lưu ý](#part1)
-'2. [F0 rồi - Giờ phải làm sao?](#part2)
-'3. [F0 Journey](#part3)
-- [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
-- [Giai đoạn 2. Xác định đã nhiễm Covid](#part3.2)
-- [Giai đoạn 3. Thay đổi thói quen](#part3.3)
+- 1. [Disclaimer - Lưu ý](#part1)
+- 2. [F0 rồi - Giờ phải làm sao?](#part2)
+- 3. [F0 Journey](#part3)
+     - [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
+     - [Giai đoạn 2. Xác định đã nhiễm Covid](#part3.2)
+     - [Giai đoạn 3. Thay đổi thói quen](#part3.3)
 
-**[Phần 2.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
-- Giai đoạn 3. Thay đổi thói quen (tt)
-- Giai đoạn 4. Có nghi ngờ nhiễm Covid
-- Giai đoạn 5. Có nghi ngờ nhiễm Covid
-'4. Gợi ý & Đề xuất
+**[Phần 2.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
+     - Giai đoạn 3. Thay đổi thói quen (tt)
+     - Giai đoạn 4. Có nghi ngờ nhiễm Covid
+     - Giai đoạn 5. Có nghi ngờ nhiễm Covid
+- 4. Gợi ý & Đề xuất
 
 
 # Disclaimer - Lưu ý <a name="part1"></a>
-- Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
+
+> - Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
 - Tên thuốc nếu được nhắc đến (nếu có) chỉ mang tính chất tham khảo và đúng trong ngữ cảnh thực tế của mình; khi sử dụng thuốc mọi người cần tham khảo ý kiến tư vấn của bác sỹ - đặc biệt trong trường hợp có bệnh nền/mãn tính,...
+>
+> <cite>- Khuyến cáo & Lưu ý</cite>
+<br>
 
 
 # F0 rồi - Giờ phải làm sao? <a name="part2"></a>
@@ -45,6 +49,10 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - Chưa có sự chuẩn bị. Chưa sẵn sàng cho các tình huống có thể xảy ra.
 - Không có sự quản lý. Có chuẩn bị nhưng thông tin phân tán, không đồng nhất giữa các thành viên hoặc nguồn dữ liệu.
 
+![Vaccine](https://plus.unsplash.com/premium_photo-1663054913786-1bc19d4ba1a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80)
+<em> Lockdown / Unsplash</em>
+<br>
+
 **Cần làm gì?**
 - Lưu và ghi số điện thoại của Y tế phường/xã ở nơi dễ tìm thấy
 - Nếu có điều kiện thì khi cách ly nên có người chăm sóc, vì lực lượng y tế trong giai đoạn cao điểm sẽ quá tải, không thể theo dõi hay hỗ trợ từng người được. Nên khi cần xử lý lúc sốt cao, đói, kiệt sức,... có người thân (được sử dụng các biện pháp bảo vệ) sẽ an toàn hơn cho người bệnh.
@@ -54,7 +62,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - BÌNH TĨNH. BÌNH TĨNH. BÌNH TĨNH - điều quan trọng nói 3 lần.
 
 **Checklist - Cách ly thì nên mang theo gì?**
-Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly <br>
+Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly: <br>
 
 ![List](https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg)
 <em> Danh sách vật dụng khi đi cách ly / Unicef & Tinhte</em>
@@ -126,6 +134,6 @@ Chấp nhận tình trạng & Xây dựng thói quen sinh hoạt mới
 
 Post này hơi dài rồi. Qua tuần mình sẽ chia sẻ tiếp các giai đoạn còn lại và tips để mình track được tình hình sức khỏe & nhắc nhở nhưng không phiền người bệnh nha. See yah & take care. 💪🏻
 
-**[Phần 2. xem tiếp tại đây.](/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
+**[Phần 2. xem tiếp tại đây.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
 
 _ Source/Photos: *Unsplash, Unicef, Google Maps của mình*
