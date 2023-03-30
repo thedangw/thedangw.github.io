@@ -23,6 +23,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
      - [Giai đoạn 3. Thay đổi thói quen](#part3.3)
 
 **[Phần 2.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-2)** <br>
+- F0 Journey (tt)    
      - Giai đoạn 3. Thay đổi thói quen (tt)
      - Giai đoạn 4. Có nghi ngờ nhiễm Covid
      - Giai đoạn 5. Có nghi ngờ nhiễm Covid
