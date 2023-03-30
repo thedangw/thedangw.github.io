@@ -15,9 +15,9 @@ Mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến tri
 Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
 
 **Phần 1.**
-1. [Disclaimer - Lưu ý](#part1)
-2. [F0 rồi - Giờ phải làm sao?](#part2)
-3. [F0 Journey](#part3)
+'1. [Disclaimer - Lưu ý](#part1)
+'2. [F0 rồi - Giờ phải làm sao?](#part2)
+'3. [F0 Journey](#part3)
 - [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
 - [Giai đoạn 2. Xác định đã nhiễm Covid](#part3.2)
 - [Giai đoạn 3. Thay đổi thói quen](#part3.3)
@@ -26,7 +26,7 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - Giai đoạn 3. Thay đổi thói quen (tt)
 - Giai đoạn 4. Có nghi ngờ nhiễm Covid
 - Giai đoạn 5. Có nghi ngờ nhiễm Covid
-4. Gợi ý & Đề xuất
+'4. Gợi ý & Đề xuất
 
 
 # Disclaimer - Lưu ý <a name="part1"></a>
