@@ -10,19 +10,20 @@ featured:
 
 Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 
-**[Phần 1.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
-- 1. Disclaimer - Lưu ý
-- 2. F0 rồi - Giờ phải làm sao?
-- 3. F0 Journey
+**[Phần 1.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)** <br>
+- Disclaimer - Lưu ý
+- F0 rồi - Giờ phải làm sao?
+- F0 Journey
      - Giai đoạn 1. Có nghi ngờ nhiễm Covid
      - Giai đoạn 2. Xác định đã nhiễm Covid
      - Giai đoạn 3. Thay đổi thói quen
 
-**Phần 2.**
+**Phần 2.** 
+- F0 Journey (tt)
      - [Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)](#part3.3)
      - [Giai đoạn 4. Có nghi ngờ nhiễm Covid](#part3.4)
      - [Giai đoạn 5. Có nghi ngờ nhiễm Covid](#part3.5)
-- 4. [Gợi ý & Đề xuất](#part4)
+- [Gợi ý & Đề xuất](#part4)
 
 
 # Disclaimer - Lưu ý 
