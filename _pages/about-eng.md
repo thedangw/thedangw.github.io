@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-description: Hi, I'm Hoang Dang, you can call me Wilson. My main job is Product Management.
+description: Hi, I'm **Hoang Dang**, you can call me Wilson. My main job is Product Management.
 I like coffee and listening to people's stories. Occasionally, I take on freelance or consulting projects. So, if you need a partner or just want to chat, feel free to ping me. 👨🏻‍💻
 permalink: /about-eng/
 image: 'https://images.unsplash.com/photo-1517842264405-72bb906a1936?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
