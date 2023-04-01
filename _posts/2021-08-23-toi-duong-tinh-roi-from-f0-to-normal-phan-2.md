@@ -4,8 +4,7 @@ title:  Tôi dương tính rồi! - From F0 to Normal (Phần 2)
 description: Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tốt hơn.
 date:   2021-08-23 19:18:25 +0700
 image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
-tags:   [covid, health, tips, product]
-featured:
+tags:   [health, tips, product]
 ---
 
 Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
@@ -14,15 +13,15 @@ featured:
 - Disclaimer - Lưu ý
 - F0 rồi - Giờ phải làm sao?
 - F0 Journey
-     - Giai đoạn 1. Có nghi ngờ nhiễm Covid
-     - Giai đoạn 2. Xác định đã nhiễm Covid
+     - Giai đoạn 1. Có nghi ngờ nhiễm bệnh
+     - Giai đoạn 2. Xác định đã nhiễm bệnh
      - Giai đoạn 3. Thay đổi thói quen
 
 **Phần 2.** 
 - F0 Journey (tt)
-     - [Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)](#part3.3)
-     - [Giai đoạn 4. Có nghi ngờ nhiễm Covid](#part3.4)
-     - [Giai đoạn 5. Có nghi ngờ nhiễm Covid](#part3.5)
+     - [Giai đoạn 3. Thay đổi thói quen (tt)](#part3.3)
+     - [Giai đoạn 4. Duy trì thói quen](#part3.4)
+     - [Giai đoạn 5. Phục hồi & bình thường mới](#part3.5)
 - [Gợi ý & Đề xuất](#part4)
 
 
@@ -70,9 +69,9 @@ Giai đoạn này là giai đoạn cả người bệnh và người thân sẽ 
 ![Calmaria](https://pbs.twimg.com/media/FsdEieyaYAID9DM?format=jpg&name=large)
 <em> App Calmaria / Hoàng Đăng</em>
 - Mọi người có thể xem thêm thông tin và download app tại đây:
-    - Website: [https://calmaria.app/](https://calmaria.app/)
-    - Calmaria on Apple AppStore: [Download](https://apps.apple.com/us/app/calmaria/id1523108871)
-    - Calmaria on Google PlayStore: [Download](https://play.google.com/store/apps/details?id=com.abdz.breathing&hl=en_US&pli=1)
+    - Website: **[https://calmaria.app/](https://calmaria.app/)**
+    - Calmaria on Apple AppStore: **[Download](https://apps.apple.com/us/app/calmaria/id1523108871)**
+    - Calmaria on Google PlayStore: **[Download](https://play.google.com/store/apps/details?id=com.abdz.breathing&hl=en_US&pli=1)**
 <br>
 
 
@@ -108,6 +107,7 @@ Sức khỏe tiến triển, xét nghiệm âm tính
     - Có chính sách thăm hỏi người bệnh bằng vật chất và tinh thần
     - Team có phương án backup để người bệnh yên tâm nghỉ ngơi
     - Có chính sách hỗ trợ tư vấn từ y bác sỹ có chuyên môn
+
 Đây là giai đoạn nhạy cảm, nếu công ty, doanh nghiệp nào có động thái thể hiện sự quan tâm đến an toàn, sức khỏe người lao động và gia đình sẽ ghi điểm cực mạnh.
 
 ![Việt Nam](https://pbs.twimg.com/media/FsdM9ReXoAEr5m4?format=jpg&name=large)

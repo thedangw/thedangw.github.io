@@ -5,10 +5,10 @@ description: Dưới đây là những kinh nghiệm mình đã áp dụng, ti�
 date: 2021-08-17 15:01:35 +0700
 image: 'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1)'
-tags: [covid, health, tips, product]
+tags: [health, tips, product]
 ---
 
-Hiện tại, đang là giai đoạn cao điểm của dịch Covid. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở lại là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em mình vẫn ở nhà tự chăm sóc. Đây cũng là một điều may mắn vì mình được ở bên cạnh em mình, phần nào sẽ yên tâm hơn.
+Hiện tại, đang là giai đoạn cao điểm của dịch. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở lại là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em mình vẫn ở nhà tự chăm sóc. Đây cũng là một điều may mắn vì mình được ở bên cạnh em mình, phần nào sẽ yên tâm hơn.
 
 Mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến triển khá tốt. Qua chuyện này, mình thấy rằng, mọi người thường có tâm lý chủ quan, chưa có sự chuẩn bị trước cho các tình huống xấu nên khi F0 mọi người rất bối rối. Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tối hơn.
 
@@ -18,15 +18,15 @@ Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người th�
 - [Disclaimer - Lưu ý](#part1)
 - [F0 rồi - Giờ phải làm sao?](#part2)
 - [F0 Journey](#part3)
-     - [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
-     - [Giai đoạn 2. Xác định đã nhiễm Covid](#part3.2)
+     - [Giai đoạn 1. Có nghi ngờ nhiễm bệnh](#part3.1)
+     - [Giai đoạn 2. Xác định đã nhiễm bệnh](#part3.2)
      - [Giai đoạn 3. Thay đổi thói quen](#part3.3)
 
 **[Phần 2.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-2)** <br>
 - F0 Journey (tt)    
      - Giai đoạn 3. Thay đổi thói quen (tt)
-     - Giai đoạn 4. Có nghi ngờ nhiễm Covid
-     - Giai đoạn 5. Có nghi ngờ nhiễm Covid
+     - Giai đoạn 4. Duy trì thói quen
+     - Giai đoạn 5. Phục hồi & bình thường mới
 - Gợi ý & Đề xuất
 
 
@@ -72,10 +72,10 @@ Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cá
 
 # F0 Journey <a name="part3"></a>
 1. <br>
-- Có nghi ngờ nhiễm covid: Có triệu chứng hoặc có nghi ngờ tiếp xúc với các F0 khác
+- Có nghi ngờ nhiễm bệnh: Có triệu chứng hoặc có nghi ngờ tiếp xúc với các F0 khác
 - Chối bỏ: Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị
 2. <br>
-- Xác nhận nhiễm covid: Test nhanh & test confirm PCR
+- Xác nhận nhiễm bệnh: Test nhanh & test confirm PCR
 - Hoang mang, lo lắng: Không biết tiếp theo cần làm gì
 3. <br>
 - Thay đổi thói quen: Xây dựng thói quen sinh hoạt mới
@@ -92,7 +92,7 @@ Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cá
 <br>
 
 
-## Giai đoạn 1. Có nghi ngờ nhiễm Covid <a name="part3.1"></a>
+## Giai đoạn 1. Có nghi ngờ nhiễm bệnh <a name="part3.1"></a>
 Có triệu chứng hoặc có nghi ngờ tiếp xúc với các F0 khác
 - **F0:**
 	- **Thường:** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị.
@@ -101,7 +101,7 @@ Có triệu chứng hoặc có nghi ngờ tiếp xúc với các F0 khác
 	- **Thường:** Tìm cách thoái thác và nghĩ rằng mình sẽ không/không thể bị
 	- **Nên:** Theo dõi sức khỏe. Liên hệ với các nhà thuốc & trung tâm y tế để xét nghiệm. Không di chuyển nhiều và hạn chế tiếp xúc
 
-## Giai đoạn 2. Xác định đã nhiễm covid <a name="part3.2"></a>
+## Giai đoạn 2. Xác định đã nhiễm bệnh <a name="part3.2"></a>
 Test nhanh & test khẳng định PCR
 - **F0:**
 	- **Thường:** Hoang mang, lo lắng. Không biết làm gì tiếp theo.
