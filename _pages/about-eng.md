@@ -31,7 +31,7 @@ Once, talking to an 'industry brother', we suddenly realized that without workin
 
 In an era where there are 5 people creating content per square meter (lol) (they are all also very creative and professional), + many social & multi-media platforms, it is clear that people prefer 'eating' videos on Tiktok, Youtube, ... and looking at photos on Instagram rather than sitting down to read a page full of words like this.
 
-So, I am not dreaming of big things. This blog is simply a place to write down what I know and experience in my work, the knowledge I pick up from everywhere and apply, as well as the miscellaneous things in my daily life. It's both to remember and to look back later to see how I've changed, and most importantly, to exchange ideas with you to make everything more diverse. I can also learn more, fix more bugs, continuously upgrade, and release newer, more sophisticated versions of myself. I hope this blog can help you to some extent. 🙌🏻
+So, I am not dreaming of big things. This page is simply a place to write down what I know and experience in my work, the knowledge I pick up from everywhere and apply, as well as the miscellaneous things in my daily life. It's both to remember and to look back later to see how I've changed, and most importantly, to exchange ideas with you to make everything more diverse. I can also learn more, fix more bugs, continuously upgrade, and release newer, more sophisticated versions of myself. I hope this page can help you to some extent. 🙌🏻
 <br>
 <br>
   

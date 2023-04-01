@@ -29,9 +29,9 @@ Có lần, nói chuyện với một ông anh 'trong ngành', tụi mình chợt
     <em>Text vs. Video / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
   </div>
 
-Giữa thời đại 1m2 có 5 người làm nội dung (các bạn lại rất sáng tạo và có chuyên môn), cộng thêm rất nhiều nền tảng hỗ trợ, rõ ràng mọi người thích xem video trên Tiktok, Youtube,... xem ảnh trên Instagram hơn là ngồi đọc một page chi chít chữ như thế này.
+Giữa thời đại 1m2 có 5 người làm nội dung (các bạn lại rất sáng tạo và có chuyên môn), cộng thêm rất nhiều nền tảng hỗ trợ, rõ ràng mọi người thích xem video trên Tiktok, Youtube,... xem ảnh trên Instagram hơn là ngồi đọc một page chi chít chữ.
 
-Vậy nên, mình không mơ mộng những điều lớn lao. Blog này đơn giản chỉ là nơi để viết lại những thứ mình biết & trải qua trong công việc, những kiến thức mình góp nhặt từ mọi nơi rồi áp dụng, cả những thứ linh tinh trong cuộc sống hằng ngày của mình. Vừa để lưu lại cho khỏi quên, vừa để sau này nhìn lại thấy mình khác như nào, và nhất là được trao đổi với anh em để mọi thứ đa chiều hơn, mình cũng được học hỏi thêm, fix được nhiều bugs, liên tục nâng cấp và release được các version mới xịn hơn của bản thân. Hy vọng blog này có thể giúp ích mọi người phần nào. 🙌🏻
+Vậy nên, mình không mơ mộng những điều lớn lao. Page này đơn giản chỉ là nơi để viết lại những thứ mình biết & trải qua trong công việc, những kiến thức mình góp nhặt từ mọi nơi rồi áp dụng, cả những thứ linh tinh trong cuộc sống hằng ngày của mình. Vừa để lưu lại cho khỏi quên, vừa để sau này nhìn lại thấy mình khác như nào, và nhất là được trao đổi với anh em để mọi thứ đa chiều hơn, mình cũng được học hỏi thêm, fix được nhiều bugs, liên tục nâng cấp và release được các version mới xịn hơn của bản thân. 🙌🏻
 <br>
 <br>
   
