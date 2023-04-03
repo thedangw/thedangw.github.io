@@ -29,7 +29,6 @@ Tháng 10-12 Đà Lạt vào mùa khô và lạnh. Du khách đi dịp này sẽ
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://pbs.twimg.com/media/FsoikNhakAIR7mj?format=jpg&name=medium" loading="lazy" alt="Coming screen">
-    <img src="https://pbs.twimg.com/media/FsoikNmaQAEkeYy?format=jpg&name=medium" loading="lazy" alt="Event detail screen">
     <img src="https://pbs.twimg.com/media/FsoikNgaAAAuk2k?format=jpg&name=medium" loading="lazy" alt="Serie detail screen">
   </div>
   <em>Đăng x Nhật <a href="https://apps.apple.com/app/race-weather-app/id6444075511"> @ Dalat</a></em>
@@ -43,9 +42,9 @@ Nhiều công trình thời đó hiện trở thành điểm tham quan hấp d�
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/Fsoi1kmaUAIz1cr?format=jpg&name=medium" loading="lazy" alt="Coming screen">
-    <img src="https://pbs.twimg.com/media/Fsoi1kzaUAADtVb?format=jpg&name=medium" loading="lazy" alt="Event detail screen">
+    <img src="https://pbs.twimg.com/media/FsoikNkaQAAQIvo?format=jpg&name=medium" loading="lazy" alt="Coming screen">
     <img src="https://pbs.twimg.com/media/FsoiwnKaYAQ8EUK?format=jpg&name=medium" loading="lazy" alt="Serie detail screen">
+    <img src="https://pbs.twimg.com/media/Fsoi1kzaUAADtVb?format=jpg&name=medium" loading="lazy" alt="Event detail screen">
   </div>
   <em>Đăng x Nhật <a href="https://apps.apple.com/app/race-weather-app/id6444075511">@ Dalat</a></em>
 </div>
@@ -55,8 +54,6 @@ Nhiều công trình thời đó hiện trở thành điểm tham quan hấp d�
 Đà Lạt có rất nhiều điểm đến thiên nhiên để khám phá trong ngày hoặc 1-2 ngày như vườn quốc gia Bidoup - Núi Bà, hồ Tuyền Lâm, thác Datanla, Prenn, Voi, Pongour, hồ Suối Vàng...
 
 Đối với những người mê săn mây, sương, hoàng hôn và cắm trại qua đêm trên núi thì đồi Đa Phú, Thiên Phúc Đức, Trọc, đồi chè Cầu Đất, đỉnh Hòn Bồ... là thích hợp nhất.
-
-![Video](https://twitter.com/i/status/1642164509505916929)
 
 Du khách có con nhỏ thích khám phá các loài thú có thể ghé thăm vườn thú Zoodoo, Nông trại cún, Chika Farm...
 
@@ -95,7 +92,12 @@ Ngoài những món ăn đặc trưng trên, đến Đà Lạt du khách dạo c
 
 Người mê cà phê sẽ nhận ra Đà Lạt cũng là thiên đường của đồ uống này. Không chỉ pha chế cà phê ngon, những hàng quán ở đây còn được không gian hấp dẫn với rất nhiều phong cách riêng. Du khách có thể thưởng thức cà phê ẩn trong rừng, phong cách Nhật Bản, check-in với gương...
 
-![Img](https://pbs.twimg.com/media/Fsoj08qacAAsa10?format=jpg&name=medium)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/Fsoj08qacAAsa10?format=jpg&name=medium" loading="lazy" alt="Coming screen">
+  </div>
+  <em>Đăng x Nhật <a href="https://apps.apple.com/app/race-weather-app/id6444075511">@ Dalat</a></em>
+</div>
 
 Lẩu gà lá é cũng là món du nhập nhưng làm du khách nào tới cũng khó lòng bỏ qua. Thịt gà ngon mềm, nấm ngọt, măng giòn và vị the nhẹ của lá é khiến thực khách khó quên, đặc biệt khi thưởng thức giữa tiết trời lành lạnh.
 
