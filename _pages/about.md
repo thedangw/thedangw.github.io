@@ -6,7 +6,7 @@ permalink: /about/
 image: 'https://images.unsplash.com/photo-1517842264405-72bb906a1936?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
 ---
 
-[This post is also available in English](/about-eng).
+**[This post is also available in English](/about-eng).**
 
 Hi, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm - Product Management.
 <br>
