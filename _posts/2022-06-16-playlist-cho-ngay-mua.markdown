@@ -10,5 +10,5 @@ tags: [playlist, music, share]
 
 Mùa mưa đến rồi. Còn gì thích hơn việc quấn mình trong chăn ấm nệm êm, nghe chút nhạc trong khi bên ngoài mưa rả rích (miễn không có task hay deadline dí). Gửi tặng anh em một playlist chill.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3GWFbJN7QQoaxwcoCBF0um?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3GWFbJN7QQoaxwcoCBF0um?utm_source=generator" width="100%" height="400" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
