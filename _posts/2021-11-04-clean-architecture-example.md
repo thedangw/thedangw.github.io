@@ -8,6 +8,8 @@ image_caption: 'Clean architecture diagram by Robert C. Martin (published on [th
 tags: [clean architecture, study]
 ---
 
+See more: [here](/blog/test-hide)
+
 The example app (described [in the own projects section on this website](/own/raceweather)) is meant to show a weather forecast app for motorsport events. The idea and the purpose are pretty simple. I've chosen this domain, because of the possible variety of options from which you may need to fetch data (that can also be in different forms).
 
 You can find the code in a [public repository on my GitHub](https://github.com/lukas-ruzicka/race-weather-ios).
