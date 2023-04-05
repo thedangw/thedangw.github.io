@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Đà Lạt năm nay không cô đơn (Phần 1)
+title:  Đà Lạt năm nay không cô đơn (Phần 2)
 description: Anh Hoàng ơi, tụi em muốn đi Đà Lạt! - Và, chuyến đi bắt đầu...
 date:   2022-12-25 21:47:23em +0700
 image:  'https://pbs.twimg.com/media/Fsoi1kqagAA5DFi?format=jpg&name=medium'

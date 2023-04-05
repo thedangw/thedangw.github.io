@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tôi dương tính rồi! - From F0 to Normal (Phần 2)
-description: Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tốt hơn.
+description: Đã 1 tuần trôi qua, và như đã hẹn ở bài trước, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 date:   2021-08-23 19:18:25 +0700
 image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 tags:   [health, tips, product]
