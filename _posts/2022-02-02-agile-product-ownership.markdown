@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Product Owner là gì? 
-date:   2022-08-01 09:00:00 +0700
-image:  'https://images.unsplash.com/photo-1501163109389-abf37ca1276a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
-tags:   [Product Owner]
-featured: true
+title:  Agile Product Ownership: How to Make the Most of the Framework
+description: Series nhập môn cho người chơi hệ Product
+date:   2022-02-02 09:00:00 +0700
+image:  'https://images.unsplash.com/photo-1556711905-b3f402e1ff80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
+image_caption: 'Unsplash, edited by Hoàng Đăng'
+tags:   [product 101]
 ---
+
+Với nhưng anh em đang làm Product Owner, chắc hẳn không dưới một lần anh em sẽ được người thân hoặc bạn bè ngoài ngành hỏi: 'Mày làm nghề gì vậy?'. Và anh em sẽ khá bối rối khi diễn tả công việc của mình - một công việc không được phổ thông, đại chúng, dễ thấy như bác sỹ, kỹ sư, giáo viên hay kể cả là lập trình viên. Thường thì khi xã giao, không cần thiết phải nói kỹ, mình hay bảo mình làm IT. Ngay lập tức họ sẽ ồ lên rồi gật gù, ra chiều đã hiểu.
 
 1. [Intro](#part1)
 2. [Product Owner là gì?](#part2)
@@ -14,9 +17,7 @@ featured: true
 
 ## Intro <a name="part1"></a>
 
-Với nhưng anh em đang làm Product Owner, chắc hẳn không dưới một lần anh em sẽ được người thân hoặc bạn bè ngoài ngành hỏi: 'Mày làm nghề gì vậy?'. Và anh em sẽ khá bối rối khi diễn tả công việc của mình - một công việc không được phổ thông, đại chúng, dễ thấy như bác sỹ, kỹ sư, giáo viên hay kể cả là lập trình viên. Thường thì khi xã giao, không cần thiết phải nói kỹ, mình hay bảo mình làm IT. Ngay lập tức họ sẽ ồ lên rồi gật gù, ra chiều đã hiểu.
-
-Thế nhưng, với các bạn đang mong muốn trở thành Product Owner thì như thế nào? Phải hiểu tường tận công việc còn quyết định có theo hay không chứ đúng không? Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ` này dưới góc nhìn của mình nhé.
+Thế nhưng, với các bạn đang mong muốn trở thành Product Owner thì như thế nào? Phải hiểu tường tận công việc còn quyết định có theo hay không chứ đúng không? Hôm nay, mình sẽ nói về cái nghề làm dâu trăm họ này dưới góc nhìn của mình nhé.
 
 *Note. Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanksss.*
 
