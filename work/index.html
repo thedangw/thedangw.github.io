@@ -19,7 +19,7 @@ description: I shows only the best websites and portfolios built completely with
   <div class="row">
     {% assign sorted = site.works | sort: 'to' | reverse %}
     {% for work in sorted %}
-      <article class="work col col-4 col-d-6 col-t-12">
+      <article class="work col col-6 col-d-6 col-t-12">
         <div class="work__content">
           <a href="{{ work.url }}" class="work__image">
             <img class="lazy" data-src="{{ work.image }}" alt="{{ work.title }}">
