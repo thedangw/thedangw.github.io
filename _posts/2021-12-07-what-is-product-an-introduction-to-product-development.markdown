@@ -30,7 +30,7 @@ Dừng lại một chút và nhìn xung quanh xem. Từ ly cà phê trên bàn, 
     <img src="https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" loading="lazy" alt="Serie detail screen">
     <img src="https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1284&q=80" loading="lazy" alt="Serie detail screen">
   </div>
-  <em>Product / Unsplash</a></em>
+  <em>Product / Unsplash</em>
 </div>
 
 > Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
@@ -61,6 +61,7 @@ Người chịu trách một / một vài giai đoạn trên được gọi là 
 Do sự ảnh hưởng của mô hình Scrum / Agile đang được áp dụng rộng rãi nên mình tạm dùng term **‘Product Owner / PO’** để gọi “người-làm-sản-phẩm” trong bài viết này và về sau.
 
 ![Pic](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80#wide)
+<em>Mobile App / Unsplash</em>
 
 Anh em có thể xem thêm một vài định nghĩa về vị trí này ở bên dưới nhé.
 <details> <summary><b><i>Xem thêm các định nghĩa khác về Product Owner</i></b></summary>
@@ -70,14 +71,14 @@ Anh em có thể xem thêm một vài định nghĩa về vị trí này ở bê
 - <b>Định nghĩa 3</b> - Product Owner đóng vai trò là người đại diện và là đứng ra bảo vệ quyền lợi khách hàng trước Development Team. (3) <br>
 - <b>Định nghĩa 4</b> - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4) <br>
 - <b>Định nghĩa 5</b> - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5) <br>
-- <b>Định nghĩa ...</b> - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha. 
-
-Source:
-*(1) scrum.org*
-*(2), (3), (4) productplan.com*
-*(5) itviec.com*
+- <b>Định nghĩa ...</b> - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha. <br>
+<br>
+Source:<br>
+- *(1) scrum.org*
+- *(2), (3), (4) productplan.com*
+- *(5) itviec.com*
 </details>
-
+<br>
 ## Tóm lại
 
 - Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
@@ -85,9 +86,7 @@ Source:
 - Quản lý Sản phẩm rất quan trọng đối với sự thành công của bất kỳ doanh nghiệp nào muốn giữ vững sự cạnh tranh trong thị trường nhanh chóng và thay đổi liên tục. Bằng việc tập trung vào nhu cầu của khách hàng và cung cấp các sản phẩm giải quyết các vấn đề và đáp ứng nhu cầu của khách hàng, các doanh nghiệp có thể xây dựng một cơ sở khách hàng trung thành và khác biệt với đối thủ của mình.
 - Quản lý Sản phẩm cũng giúp các doanh nghiệp xác định cơ hội thị trường mới và vượt trội so với đối thủ. Thông qua việc theo dõi xu hướng thị trường và xác định các xu hướng mới nổi, Product Owner có thể định hình các ý tưởng sản phẩm mới và đưa chúng ra thị trường trước khi đối thủ của họ làm điều đó.
 
-_
-
-Hình như bài này hơi dài rồi. Tạm dừng nhé. Hẹn gặp lại anh em vào các bài viết tiếp theo.
+Bài này hơi dài rồi. Tạm dừng nhé. Hẹn gặp lại anh em vào các bài viết tiếp theo.
 
 -
 
