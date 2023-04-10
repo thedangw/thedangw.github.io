@@ -60,8 +60,6 @@ Du khách có con nhỏ thích khám phá các loài thú có thể ghé thăm v
 Ngoài ra, vườn hoa thành phố, vườn cẩm tú cầu ở Trại Mát, vườn oải hương hồ Tuyền Lâm, làng hoa Vạn Thành... cũng là điểm check-in không thể bỏ qua ở Đà Lạt.
 
 
-![Pic](https://pbs.twimg.com/media/Fsoi1kqagAA5DFi?format=jpg&name=medium#wide)
-
 ## Ăn uống
 
 Bánh ướt lòng gà là món ăn có vị chua do ăn kèm với gỏi gà, không giống với bánh ướt ăn với chả thường thấy. Khi ăn thực khách sẽ cảm nhận được bánh ướt dẻo thơm, thịt gà, lòng gà quyện trong vị nước mắm chua ngọt vừa phải kèm vị nồng từ rau thơm.
