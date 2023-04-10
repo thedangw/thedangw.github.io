@@ -1,21 +1,20 @@
 ---
 layout: post
-title:  What is a Product? An Introduction to Product Management 
+title:  Product là gì? Tổng quan về Quản lý Sản phẩm 
 description: Như mention ở bio, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Nhưng với những bạn ngoài ngành hoặc lần đầu tiên tiếp xúc, mong muốn gia nhập, chắc hẳn sẽ có rất nhiều câu hỏi. Trong bài viết này, bạn và  mình sẽ cùng tìm hiểu sản phẩm là gì và thế nào là Quản lý Sản phẩm nhé.
 date:   2021-12-07 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
 image_caption: 'Product / Unsplash'
-permalink: /en/test-eng/
 tags:   [product 101, product basement]
 ---
 
-**[This post is also available in English.]()**
+**[This post is also available in English.](/blog/en/what-is-product-an-introduction-to-product-development)**
 
 *Disclaimer. Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanks.*
 
 _
 
-Như mention ở [bio](/about), công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Nhưng với những bạn ngoài ngành hoặc lần đầu tiên tiếp xúc, mong muốn gia nhập, chắc hẳn sẽ có rất nhiều câu hỏi. Trong bài viết này, bạn và  mình sẽ cùng tìm hiểu sản phẩm là gì và thế nào là Quản lý Sản phẩm nhé.
+Như mention ở **[bio](/about)**, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Nhưng với những bạn ngoài ngành hoặc lần đầu tiên tiếp xúc, mong muốn gia nhập, chắc hẳn sẽ có rất nhiều câu hỏi. Trong bài viết này, bạn và  mình sẽ cùng tìm hiểu sản phẩm là gì và thế nào là Quản lý Sản phẩm nhé.
 
 > Bà già bán khói cũng nói, làm sản phẩm là một thứ bổn phận người dùng dúi vào tay, cầm thì khổ mà không cầm thì áy náy...
 >
@@ -31,7 +30,7 @@ Dừng lại một chút và nhìn xung quanh xem. Từ ly cà phê trên bàn, 
     <img src="https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" loading="lazy" alt="Serie detail screen">
     <img src="https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1284&q=80" loading="lazy" alt="Serie detail screen">
   </div>
-  <em>Product / Unsplash</a></em>
+  <em>Product / Unsplash</em>
 </div>
 
 > Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
@@ -45,7 +44,7 @@ Trong phạm vi của bài viết & blog này, product được đề cập là 
 
 Hiện tại, có rất nhiều định nghĩa, quan điểm và trường phái khác nhau về công việc Product Management nói chung và vị trí Product nói riêng. Các bạn có thể tìm hiểu thêm ở các bài viết trên các nền tảng như Medium, hoặc từ các công ty lớn trong ngành như Google, Facebook,...
 
-### Nội dung chia sẻ dưới đây là góc nhìn của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này.
+#### Nội dung chia sẻ dưới đây là góc nhìn của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này.
 
 Việc tạo ra một sản phẩm bao gồm một loạt các hoạt động, bao gồm nghiên cứu thị trường, thiết kế sản phẩm, phát triển, kiểm thử, vận hành, triển khai… nhằm đáp ứng nhu cầu của khách hàng và thúc đẩy sự phát triển kinh doanh.  Toàn bộ quá trình này được gọi là Quản lý Sản phẩm - Product Management.
 Dựa vào tính chất, kỹ năng và stakeholders liên quan, Product Management có thể chia thành 3 phần:
@@ -57,11 +56,12 @@ Trong các bài viết về sau, mình sẽ giải thích chi tiết tính chấ
 ## Product Owner là gì? 
 
 Người chịu trách một / một vài giai đoạn trên được gọi là “người-làm-sản-phẩm”. 
-Ở Việt Nam, có rất nhiều định nghĩa về “người-làm-sản-phẩm”. Mỗi công ty lại có một cách gọi và scope công việc khác nhau. Vậy nên, các bạn cần tìm hiểu kỹ JD tuyển dụng trước khi apply nhé. Mình cũng thường hỏi ứng viên hiểu về công việc như thế nào, vì sao lại chọn đi theo hướng này trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc.
+Ở Việt Nam, có rất nhiều định nghĩa về “người-làm-sản-phẩm”. Mỗi công ty lại có một cách gọi và scope công việc khác nhau. Vậy nên, các bạn cần tìm hiểu kỹ JD tuyển dụng trước khi apply nhé. Mình cũng thường hỏi ứng viên hiểu về công việc như thế nào, vì sao lại chọn đi theo hướng này trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc. <br>
 
 Do sự ảnh hưởng của mô hình Scrum / Agile đang được áp dụng rộng rãi nên mình tạm dùng term **‘Product Owner / PO’** để gọi “người-làm-sản-phẩm” trong bài viết này và về sau.
 
 ![Pic](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80#wide)
+<em>Mobile App / Unsplash</em>
 
 Anh em có thể xem thêm một vài định nghĩa về vị trí này ở bên dưới nhé.
 <details> <summary><b><i>Xem thêm các định nghĩa khác về Product Owner</i></b></summary>
@@ -71,14 +71,14 @@ Anh em có thể xem thêm một vài định nghĩa về vị trí này ở bê
 - <b>Định nghĩa 3</b> - Product Owner đóng vai trò là người đại diện và là đứng ra bảo vệ quyền lợi khách hàng trước Development Team. (3) <br>
 - <b>Định nghĩa 4</b> - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4) <br>
 - <b>Định nghĩa 5</b> - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5) <br>
-- <b>Định nghĩa ...</b> - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha. 
-
-Source:
-*(1) scrum.org*
-*(2), (3), (4) productplan.com*
-*(5) itviec.com*
+- <b>Định nghĩa ...</b> - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha. <br>
+<br>
+Source:<br>
+- *(1) scrum.org*
+- *(2), (3), (4) productplan.com*
+- *(5) itviec.com*
 </details>
-
+<br>
 ## Tóm lại
 
 - Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
@@ -86,9 +86,7 @@ Source:
 - Quản lý Sản phẩm rất quan trọng đối với sự thành công của bất kỳ doanh nghiệp nào muốn giữ vững sự cạnh tranh trong thị trường nhanh chóng và thay đổi liên tục. Bằng việc tập trung vào nhu cầu của khách hàng và cung cấp các sản phẩm giải quyết các vấn đề và đáp ứng nhu cầu của khách hàng, các doanh nghiệp có thể xây dựng một cơ sở khách hàng trung thành và khác biệt với đối thủ của mình.
 - Quản lý Sản phẩm cũng giúp các doanh nghiệp xác định cơ hội thị trường mới và vượt trội so với đối thủ. Thông qua việc theo dõi xu hướng thị trường và xác định các xu hướng mới nổi, Product Owner có thể định hình các ý tưởng sản phẩm mới và đưa chúng ra thị trường trước khi đối thủ của họ làm điều đó.
 
-_
-
-Hình như bài này hơi dài rồi. Tạm dừng nhé. Hẹn gặp lại anh em vào các bài viết tiếp theo.
+Bài này hơi dài rồi. Tạm dừng nhé. Hẹn gặp lại anh em vào các bài viết tiếp theo.
 
 -
 
