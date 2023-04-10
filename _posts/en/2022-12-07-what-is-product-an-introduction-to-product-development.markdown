@@ -9,7 +9,7 @@ permalink: /blog/en/what-is-product-an-introduction-to-product-development/
 tags:   [product 101, product basement, english]
 ---
 
-**[Phiên bản tiếng Việt ở đây bạn nhé!](/blog/product-la-gi-tong-quan-ve-quan-ly-san-pham/)**
+**[Phiên bản tiếng Việt ở đây bạn nhé!](/blog/product-la-gi-tong-quan-ve-quan-ly-san-pham)**
 
 As mentioned in my **[bio](/about-eng)**, my main job is Product Management. For those of you working in the technology industry, this job may not be new or unfamiliar. However, for those outside the industry or those who are new and want to join, there may be many questions. In this article, you and I will explore what a product is and what Product Management is.
 
@@ -23,7 +23,7 @@ Pause for a moment and look around. From the coffee cup on the table, the clothe
     <img src="https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80" loading="lazy" alt="Serie detail screen">
     <img src="https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1284&q=80" loading="lazy" alt="Serie detail screen">
   </div>
-  <em>Product / Unsplash</a></em>
+  <em>Product / Unsplash</em>
 </div>
 
 > Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
@@ -62,13 +62,13 @@ Due to the influence of the widely applied Scrum / Agile model, I will use the t
 You can also see some other definitions of this position below.
 <details> <summary><b><i>See more definitions of Product Owner</i></b></summary>
 
-<b>Definition 1</b> - The Product Owner is the person responsible for maximizing the value of the product from the work of the Scrum Team, and to do this, the PO needs to work with the Scrum Team and other departments in the organization. (1) <br>
-<b>Definition 2</b> - The Product Owner is a member of the product development team. The PO attends daily Scrum meetings and evaluates the priority level of items in the Product Backlog. The PO needs to ensure that the Development Team can work effectively and achieve their goals. (2) <br>
-<b>Definition 3</b> - The Product Owner acts as a representative and defends the interests of customers to the Development Team. (3) <br>
-<b>Definition 4</b> - The Product Owner supervises, coordinates work, and is responsible for answering questions from the Development Team. (4) <br>
-<b>Definition 5</b> - The Product Owner is the owner of the product, acting as a mini-CEO and having the authority to make all decisions related to the product to achieve the organization's business goals. (5) <br>
-<b>Definition...</b> - Well, five definitions are too many, let's stop here. <br>
-
+- <b>Definition 1</b> - The Product Owner is the person responsible for maximizing the value of the product from the work of the Scrum Team, and to do this, the PO needs to work with the Scrum Team and other departments in the organization. (1) <br>
+- <b>Definition 2</b> - The Product Owner is a member of the product development team. The PO attends daily Scrum meetings and evaluates the priority level of items in the Product Backlog. The PO needs to ensure that the Development Team can work effectively and achieve their goals. (2) <br>
+- <b>Definition 3</b> - The Product Owner acts as a representative and defends the interests of customers to the Development Team. (3) <br>
+- <b>Definition 4</b> - The Product Owner supervises, coordinates work, and is responsible for answering questions from the Development Team. (4) <br>
+- <b>Definition 5</b> - The Product Owner is the owner of the product, acting as a mini-CEO and having the authority to make all decisions related to the product to achieve the organization's business goals. (5) <br>
+- <b>Definition...</b> - Well, five definitions are too many, let's stop here. <br>
+<br>
 Source: <br>
 - (1) scrum.org <br>
 - (2), (3), (4) productplan.com <br>
