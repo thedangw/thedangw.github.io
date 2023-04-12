@@ -55,7 +55,7 @@ Trong các bài viết về sau, mình sẽ giải thích chi tiết tính chấ
 
 ## Product Owner là gì? 
 
-Người chịu trách một / một vài giai đoạn trên được gọi là “người-làm-sản-phẩm”. 
+Người chịu trách nhiệm một / một vài giai đoạn trên được gọi là “người-làm-sản-phẩm”. 
 Ở Việt Nam, có rất nhiều định nghĩa về “người-làm-sản-phẩm”. Mỗi công ty lại có một cách gọi và scope công việc khác nhau. Vậy nên, các bạn cần tìm hiểu kỹ JD tuyển dụng trước khi apply nhé. Mình cũng thường hỏi ứng viên hiểu về công việc như thế nào, vì sao lại chọn đi theo hướng này trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc. <br>
 
 Do sự ảnh hưởng của mô hình Scrum / Agile đang được áp dụng rộng rãi nên mình tạm dùng term **‘Product Owner / PO’** để gọi “người-làm-sản-phẩm” trong bài viết này và về sau.
