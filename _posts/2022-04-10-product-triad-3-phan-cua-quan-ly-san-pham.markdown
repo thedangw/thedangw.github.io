@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  Product Triad - 3 cấu phần của Quản lý Sản phẩm 
-description: Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 cấu phần của Quản lý Sản phẩm: Product Development / Build - Phát triển Sản phẩm; Product Operation - Vận hành Sản phẩm & Product Growth / Biz - Tăng trưởng / Kinh doanh Sản phẩm.
-date:   2022-04-11 09:00:00 +0700
+title:  Product Triad - 3 phần của Quản lý Sản phẩm 
+description: Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 phần của Quản lý Sản phẩm.
+date:   2022-04-10 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1609851451108-e937620f1210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
 image_caption: 'Product / Unsplash'
 tags:   [product 101, product basement]
 ---
-
-**[This post is also available in English.](/blog/en/what-is-product-an-introduction-to-product-development)**
 
 Product Management là một phần không thể thiếu của một doanh nghiệp, đặc biệt, trong lĩnh vực công nghệ - với sự thay đổi nhanh, liên tục của thị trường, vai trò của Product Management lại càng trở nên quan trọng. Đó là một quá trình dài, không ngừng từ xuất phát điểm là một đề xuất, ý tưởng trên giấy đến khi được đưa ra thị trường. Giải pháp này phải đáp ứng được đồng thời nhu cầu, mong đợi của khách hàng và hiện thực hóa được các mục tiêu kinh doanh.
 
@@ -133,4 +131,8 @@ Product Management là một quá trình phức tạp và liên tục.
 Tùy từng tổ chức sẽ có định nghĩa về tên gọi và phạm vi công việc khác nhau. Ví dụ, một số công ty gộp phần Operation & Growth (ở phần trên) vào Product Operation.
 
 Tuy nhiên, dù term là gì, PO cần đảm bảo rằng sản phẩm của mình đáp ứng được nhu cầu của khách hàng và mang lại giá trị cho công ty. Bằng cách xây dựng năng lực và tham gia vào 3 giai đoạn Product Development - Phát triển Sản phẩm; Product Operation - Vận hành Sản phẩm và Product Growth -  Tăng trưởng Sản phẩm, PO có thể tạo ra sản phẩm thành công.
+
+-
+
+**[Product 101](/tags/?tag=product+101)** - Series các bài viết cho người chơi hệ Sản phẩm. Từ những kiến thức cơ bản về sản phẩm, phương pháp quản lý sản phẩm + những kỹ năng cần thiết để tạo ra những sản phẩm thành công và đáp ứng nhu cầu của khách hàng. Nếu bạn đam mê tìm hiểu và muốn thành công trong lĩnh vực sản phẩm, thì đây chính là chuỗi bài viết dành cho bạn.
 
