@@ -17,9 +17,9 @@ Product Management là một phần không thể thiếu của một doanh nghi�
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/Fs3H9rNaYAAVmYB?format=jpg&name=medium" loading="lazy">
+    <img src="https://pbs.twimg.com/media/Ftkk-vWaMAAZtNN?format=jpg&name=medium" loading="lazy">
   </div>
-  <em>Product Triad / Hoàng Đăng</em>
+  <em> The Triad in Product Management / Hoàng Đăng</em>
 </div>
 
 <b>Disclaimer.</b>
