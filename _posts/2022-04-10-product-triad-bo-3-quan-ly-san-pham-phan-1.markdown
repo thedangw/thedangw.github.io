@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Product Triad - 3 phần của Quản lý Sản phẩm 
+title:  Product Triad - Bộ 3 Quản lý Sản phẩm (Phần 1)
 description: Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 phần của Quản lý Sản phẩm.
 date:   2022-04-10 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1609851451108-e937620f1210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
