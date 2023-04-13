@@ -10,7 +10,9 @@ tags:   [product 101, product basement]
 
 **[This post is also available in English.](/blog/en/what-is-product-an-introduction-to-product-development)**
 
-*Disclaimer. Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanks.*
+<b>Disclaimer.</b>
+- Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanks .
+- Một số thuật ngữ được sử dụng trong bài được mượn từ mô hình Agile / Scrum
 
 _
 

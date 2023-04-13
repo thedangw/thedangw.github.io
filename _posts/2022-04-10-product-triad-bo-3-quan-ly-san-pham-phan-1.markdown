@@ -4,20 +4,27 @@ title:  Product Triad - 3 phần của Quản lý Sản phẩm
 description: Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 phần của Quản lý Sản phẩm.
 date:   2022-04-10 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1609851451108-e937620f1210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
-image_caption: 'Product / Unsplash'
+image_caption: 'Product / Tran Mau Tri Tam @ Unsplash'
 tags:   [product 101, product basement]
 ---
 
-Product Management là một phần không thể thiếu của một doanh nghiệp, đặc biệt, trong lĩnh vực công nghệ - với sự thay đổi nhanh, liên tục của thị trường, vai trò của Product Management lại càng trở nên quan trọng. Đó là một quá trình dài, không ngừng từ xuất phát điểm là một đề xuất, ý tưởng trên giấy đến khi được đưa ra thị trường. Giải pháp này phải đáp ứng được đồng thời nhu cầu, mong đợi của khách hàng và hiện thực hóa được các mục tiêu kinh doanh.
+Product Management là một phần không thể thiếu của một doanh nghiệp, đặc biệt, trong lĩnh vực công nghệ - với sự thay đổi nhanh, liên tục của thị trường, vai trò của Product Management lại càng trở nên quan trọng. Đó là một quá trình dài, không ngừng, từ xuất phát điểm là một đề xuất, ý tưởng trên giấy đến khi được đưa ra thị trường. Giải pháp này phải đáp ứng được đồng thời nhu cầu, mong đợi của khách hàng và hiện thực hóa được các mục tiêu kinh doanh.
 
-Để đạt được điều đó, một Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 cấu phần của Quản lý Sản phẩm:
+Để đạt được điều đó, một Product Owner -  bên cạnh kiến thức về ngành (business domain knowledge) - phải am hiểm và có kỹ năng phù hợp với tính chất sản phẩm. Trong bài này, chúng ta sẽ khám phá 3 cấu phần bổ sung, không thể tách rời của Quản lý Sản phẩm:
 - Product Development / Build: Phát triển Sản phẩm
 - Product Operation: Vận hành Sản phẩm
 - Product Growth / Biz: Tăng trưởng / Kinh doanh Sản phẩm
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/Fs3H9rNaYAAVmYB?format=jpg&name=medium" loading="lazy">
+  </div>
+  <em>Product Triad / Hoàng Đăng</em>
+</div>
+
 <b>Disclaimer.</b>
-- Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanks .
-- Một số thuật ngữ được sử dụng trong bài được mượn từ mô hình Agile / Scrum
+- Vì có những từ thường sử dụng trong môi trường làm việc hoặc không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ.
+- Một số thuật ngữ được sử dụng trong bài được mượn từ mô hình Agile / Scrum.
 
 
 #### Nội dung chia sẻ dưới đây là góc nhìn của mình đúc kết được sau nhiều năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này.
@@ -31,7 +38,14 @@ Product Management là một phần không thể thiếu của một doanh nghi�
     - Design Team: Product Designer (UI/UX), Product/Market Research, User Insight,...
     - Development Team: Backend Dev, Frontend Dev, Mobile Dev, Quality Control,...
     - Project, Support Team: PMO, SM,...
-- Activities: Problem-Solving Meetings, Grooming (Why & What Part), Backlog Refinement (How Part), Planning, Daily Meetings, Mid-Sprint Catchup, Review, Retro,...
+- Activities:
+    - Problem-Solving Meetings
+    - Grooming (Why & What Part)
+    - Backlog Refinement (How Part)
+    - Planning, Daily Meetings
+    - Mid-Sprint Catchup
+    - Review, Retro Meeting
+    - ...
 - Skills:
 	- User, Market Research - Phân tích, nghiên cứu thị trường
 	- Evaluation & Prioritize - Đánh giá và sắp xếp mức độ ưu tiên
@@ -46,13 +60,18 @@ Product Management là một phần không thể thiếu của một doanh nghi�
     - Document: Product Requirement Document (PRD) - High Level & Detail Doc,... 
 - Output: Product, Functions, Features - hiện thực hóa tính năng, sản phẩm đã được define ở phần Input
 
-_
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80" loading="lazy">
+  </div>
+  <em>Product Development / Annie Spratt @ Unsplash</em>
+</div>
 
-Product Development - Phát triển Sản phẩm là giai đoạn đầu tiên - và thường được nhắc đến nhất của Product Management - Quản lý Sản phẩm. Đến mức mọi người còn ngầm hiểu: PO mà không tham gia phát triển sản phẩm thì không phải PO (dù thực tế thì không hẳn vậy). 
+Product Development - Phát triển Sản phẩm không phải là giai đoạn đầu tiên - nhưng thường được nhắc đến nhiều nhất của Product Management - Quản lý Sản phẩm. Đến mức mọi người còn ngầm hiểu: PO mà không tham gia phát triển sản phẩm thì không phải PO (dù thực tế thì không hẳn vậy). 
 
 Trong giai đoạn này, PO cần làm việc với Design &  Development Team để tạo ra một sản phẩm đáp ứng được nhu cầu của khách hàng.
 - PO đánh giá các yêu cầu, số liệu,... (đề cập ở Giai đoạn 3) để xác định khách hàng mục tiêu, pain point của họ, từ đó đề xuất các giải pháp.
-- Tùy thuộc vào mô hình và quy trình (way of working), PO cần trao đổi và thống nhất với line manager (Product Manager / Product Lead) và các PO thuộc squad (team) khác liên quan về lộ trình sản phẩm (plan / roadmap): ước lượng thời gian phát triển, các tính năng chính và các cột mốc quan trọng & điều kiện phụ thuộc (dependency).
+- Tùy thuộc vào mô hình và quy trình làm việc (way of working), PO cần trao đổi và thống nhất với line manager (Product Manager / Product Lead - hoặc người đóng vai trò tương tự) và các PO thuộc squad (team) khác liên quan về lộ trình sản phẩm (plan / roadmap): ước lượng thời gian phát triển, các tính năng chính và các cột mốc quan trọng & điều kiện phụ thuộc (dependency).
 - Với Development Team, PO cần trao đổi chặt chẽ  để đảm bảo các yêu cầu kỹ thuật và giải pháp công nghệ, tiêu chuẩn chất lượng, sản phẩm được deliver đúng thời hạn, không vượt quá ngân sách.
 
 Trong tuyển dụng, nếu tính chất công việc cần tập trung vào Product Development, các bạn Business Analyst (BA) ở các công ty outsourcing sẽ là ứng viên tiềm năng.
@@ -77,6 +96,13 @@ Trong tuyển dụng, nếu tính chất công việc cần tập trung vào Pro
     - Flow & Documents: Quy trình, phương pháp làm việc (way of working), cấu trúc tổ chức (structure / org chart),...
 - Output & Goal: Tối ưu nguồn lực của tổ chức - tối ưu thời gian, con người và tiền bạc. Output đôi khi là NON-Product.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1533749871411-5e21e14bcc7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80" loading="lazy">
+  </div>
+  <em>Product Operation / Campaign Creator @ Unsplash</em>
+</div>
+
 Product Operation là một giai đoạn đặc biệt. Nó không diễn ra trước hay sau các giai đoạn khác mà song song, đồng hành xuyên suốt toàn bộ quá trình, vượt ra khỏi phạm vi team Sản phẩm mà liên quan đến mọi stakeholders liên quan.
 
 Product Operation bao gồm:
@@ -91,46 +117,7 @@ Product Operation là giai đoạn vô hình mà khá nhiều công ty bỏ qua,
 
 Trong tuyển dụng, các bạn Product Owner làm việc trong các công ty lớn (big corp) sẽ có kinh nghiệm và lợi thế về Product Operation.
 
-
-## 3. Product Growth / Biz: Tăng trưởng / Kinh doanh Sản phẩm
-
-- Input: Sản phẩm hoàn thiện & nhu cầu kinh doanh
-- Stakeholders:
-    - Operation Team: Vận hành, Chăm sóc Khách hàng
-    - Business Team: Marketing, Phát triển kinh doanh (BD),...
-    - Data Team: Business Intelligent
-    - Activities: Brainstorming, Problem-Solving Meetings
-- Skills:
-	- Business Need Analysis: nhận diện và đánh giá nhu cầu kinh doanh
-	- Business Performance: triển khai và đánh giá
-	- Data Analytics: phân tích dữ liệu
-	- User Insight: am hiểu về khách hàng, người dùng
-	- Strategy Implementation
-	- Problem Solving - Giải quyết vấn đề, xử lý tình huống phát sinh
-	- Stakeholder Management 
-	- …
-- Deliverable Items:
-    - Report
-    - Plan
-
-Khi sản phẩm đã được vận hành một cách hiệu quả và đưa ra thị trường, đến tay người dùng cuối, đây là lúc PO bước vào giai đoạn Product Growth. Trong giai đoạn này, PO phải tìm kiếm các cơ hội để tăng doanh số và mở rộng thị trường.
-
-Product Growth bao gồm:
-- Marketing và Kinh doanh: PO phối hợp với Marketing & BD để tìm kiếm các cơ hội để quảng cáo sản phẩm và thu hút khách hàng mới. Hiểu được cách tác động của các kênh truyền thông khác nhau như online, social, event, hoặc quảng cáo trên các phương tiện truyền thông đại chúng như TV ads, podcast,… đến sản phẩm (tùy theo từng loại sản phẩm và giai đoạn đặc thù ảnh hưởng sẽ khác nhau).
-- Ghi nhận và phân tích phản hồi của khách hàng: theo dõi các chỉ số hiệu suất của sản phẩm và đánh giá các hoạt động tăng trưởng sản phẩm để đảm bảo rằng chúng đang có hiệu quả và mang lại giá trị cho khách hàng.
-	- Các phương pháp ghi nhận ý kiến trực tiếp: khảo sát, phỏng vấn cá nhân, phỏng vấn nhóm,...
-    - Các phương pháp ghi nhận ý kiến gián tiếp: thông qua các công cụ tracking, social listening, performance tracking, doanh số,... 
-- Xây dựng kế hoạch và chiến lược phát triển sản phẩm: dựa vào các kết quả kinh doanh và phản hồi từ khách hàng + nhận định về thị trường, PO cần xây dựng chiến lược và kế hoạch phát triển cho sản phẩm của mình.
-
-Trong tuyển dụng, các bạn Product Owner làm việc trong các công ty startup hoặc background Product Marketing, team Strategy sẽ có lợi thế về Product Growth.
-
-## Tóm lại
-
-Product Management là một quá trình phức tạp và liên tục. 
-
-Tùy từng tổ chức sẽ có định nghĩa về tên gọi và phạm vi công việc khác nhau. Ví dụ, một số công ty gộp phần Operation & Growth (ở phần trên) vào Product Operation.
-
-Tuy nhiên, dù term là gì, PO cần đảm bảo rằng sản phẩm của mình đáp ứng được nhu cầu của khách hàng và mang lại giá trị cho công ty. Bằng cách xây dựng năng lực và tham gia vào 3 giai đoạn Product Development - Phát triển Sản phẩm; Product Operation - Vận hành Sản phẩm và Product Growth -  Tăng trưởng Sản phẩm, PO có thể tạo ra sản phẩm thành công.
+Phần tiếp theo mình sẽ giới thiệu tiếp cho mọi người về Giai đoạn 3 - Product Growth / Biz và thực tế áp dụng nhé.
 
 -
 
