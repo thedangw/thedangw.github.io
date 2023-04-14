@@ -17,7 +17,7 @@ Product Management là một phần không thể thiếu của một doanh nghi�
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/Ftkk-vWaMAAZtNN?format=jpg&name=medium" loading="lazy">
+    <img src="https://pbs.twimg.com/media/Ftlem29aUAAQmwW?format=jpg&name=medium" loading="lazy">
   </div>
   <em> The Triad in Product Management / Hoàng Đăng</em>
 </div>
@@ -28,6 +28,7 @@ Product Management là một phần không thể thiếu của một doanh nghi�
 
 
 #### Nội dung chia sẻ dưới đây là góc nhìn của mình đúc kết được sau nhiều năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này.
+
 
 
 ## 1. Product Development / Build: Phát triển Sản phẩm
@@ -75,6 +76,7 @@ Trong giai đoạn này, PO cần làm việc với Design &  Development Team �
 - Với Development Team, PO cần trao đổi chặt chẽ  để đảm bảo các yêu cầu kỹ thuật và giải pháp công nghệ, tiêu chuẩn chất lượng, sản phẩm được deliver đúng thời hạn, không vượt quá ngân sách.
 
 Trong tuyển dụng, nếu tính chất công việc cần tập trung vào Product Development, các bạn Business Analyst (BA) ở các công ty outsourcing sẽ là ứng viên tiềm năng.
+
 
 ## 2. Product Operation -  Vận hành Sản phẩm
 
